@@ -1,0 +1,6 @@
+input = int(input())
+digits = str(input)
+digit1 = int(digits[0])
+digit2 = int(digits[1])
+digit3 = int(digits[2])
+print(digit1 + digit2 + digit3)
